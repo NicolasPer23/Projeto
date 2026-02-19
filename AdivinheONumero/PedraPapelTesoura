@@ -1,0 +1,25 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class Main{
+public static void main(String[] args){
+
+
+
+boolean teste == true;
+random gerador = new random();
+Scanner ent = new Scanner(System.in);
+
+vitoria = 0;
+derrota = 0;
+empate = 0;
+
+int numero = gerador.nextInt(3) + 1;
+
+while(teste){
+    if(numero == 1){
+    numero == "Pedra";
+    }else if(numero == 2){
+    numero == "Papel";}
+    else if(numero == 3){
+    numero == "Tesoura"}
